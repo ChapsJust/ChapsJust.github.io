@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  
+  #nav li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: #111;
+  }
+  
+a {
+  display: block;
+  padding: 10px;
+  background-color:lightgray;
+}
+body {
+    background-color: rgba(152, 220, 224, 0.434);
+    }
+ #Middle   {
+    text-align: center;
+
+    }
